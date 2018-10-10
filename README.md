@@ -12,5 +12,5 @@ Jingzhi An B.Eng.1,2; Durga Jonnalagadda M.D.3; Valdery Moura Junior M.S.3; Patr
 5. Institute of Medical Engineering and Sciences
 
 Corresponding Author:
-Jingzhi An, M.D.-Ph.D. candidate
+Jingzhi An, M.D., Ph.D. candidate
 jzan@mit.edu
